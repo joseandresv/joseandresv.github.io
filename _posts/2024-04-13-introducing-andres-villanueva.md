@@ -8,8 +8,12 @@ NLP focused MSc in Computer Science with a fervent interest in leveraging cuttin
 ### Data Science Projects
 
 - **Clear Language Classification, 2023 - Ongoing**
-  - *Thesis:* Developed a Multi-head LLM tailored for Plain Language Tasks (PLTs) - QLoRA utilized for fine-tuning.
-  - Conducted RAG Dataset Creation from PL Documentation, employing Text Classification and Generation techniques, followed by comprehensive LLM evaluations (API GPT-4 vs Llama2 vs T5).
+  - *Thesis:* 
+    - Developed a Multi-head LLM tailored for Plain Language Tasks (PLTs)
+    - QLoRA utilized for fine-tuning.
+    - Conducted RAG Dataset Creation from PL Documentation.
+    - Employed Text Classification and Generation techniques.
+    - Evaluated SOTA LLMs for language simplification (API GPT-4 vs Llama2 vs T5).
 - **Cloud Home Theater PC, 2023 - Ongoing**
   - *Business Enterprise:* Spearheaded the development of an Amazon EC2 mounted application facilitating video file sharing, with an emphasis on application containerization for streamlined server execution.
 - **Sarcasm vs Short Jokes Analysis, 2022**
