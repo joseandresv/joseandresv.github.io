@@ -1,3 +1,51 @@
+#gitIGNORE for lanyon
+
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
+.jekyll-cache
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# Folders to ignore
+node_modules
+bower_components
+
+# gitIGNORE for python projects
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -158,3 +206,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
