@@ -21,10 +21,5 @@ NLP focused MSc in Computer Science with a fervent interest in leveraging cuttin
 - **Bird Population Clustering, 2022**
   - *Geospatial ML:* Implemented K-nearest neighbors (KNN) and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithms for spatial data clustering of Mexican Birds.
 
-### Diverse Thoughts on Language and DS/CS
-
-- *Everything is Language: World representation from a theory of language perspective.*
-- *Will Theory: A model for understanding the Will-Desire-Action system.*
-- *The Language Problem: Natural difficulties in communication and possible solutions.*
 
 

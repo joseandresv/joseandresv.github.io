@@ -1,7 +1,8 @@
 # Setup
 title:               Andres Villanueva for Language*
 tagline:             'Everything is Language'
-description:         'A repository for <a href="https://github.com/joseandresv/joseandresv.github.io.git" target="_blank">NLP/ML/CS projects</a>. Using a Lanyon Jekyll theme from <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A repository for <a href="https://github.com/joseandresv/joseandresv.github.io.git" target="_blank">NLP/ML/CS projects</a>. 
+Using a Lanyon Jekyll theme from <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://joseandresv.github.io/
 baseurl:             ''
 paginate:            5
@@ -19,4 +20,4 @@ plugins:
 
 # Custom vars
 version:             1.1.0
-google_analytics_id: UA-146052-15
+google_analytics_id: xxx-xxx-xxx
