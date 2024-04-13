@@ -1,8 +1,7 @@
 # Setup
 title:               Andres Villanueva for Language*
 tagline:             'Everything is Language'
-description:         'A repository for <a href="https://github.com/joseandresv/joseandresv.github.io.git" target="_blank">NLP/ML/CS projects</a>. 
-Using a Lanyon Jekyll theme from <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A repository for <a href="https://github.com/joseandresv/joseandresv.github.io.git" target="_blank">NLP/ML/CS projects</a>./n Using a Lanyon Jekyll theme from <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://joseandresv.github.io/
 baseurl:             ''
 paginate:            5

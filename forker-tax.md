@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Forker Tax
 ---
 <p class="message">
