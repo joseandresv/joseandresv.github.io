@@ -8,7 +8,7 @@ title: Data Science Portfolio
 </p>
 
 - *Mexican Presidential Candidates Twitter Sentiment Analysis, 2024*
-- [*Clear Language Generation (Language Simplification via Causal LMs), 2023 - 2024*](2024-05-04-clear-language-generation.md)
+- [*Clear Language Generation (Language Simplification via Causal LMs), 2023 - 2024*](_posts/2024-05-04-clear-language-generation.md)
 - *fMRI Task Classification (HCP 3T Task fMRI Protocol), 2023*
 - *Spanish Paraphrasing Detection with LSTMs, 2023*
 - *Sarcasm vs Short Jokes Semantic Analysis, 2022*
