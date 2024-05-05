@@ -7,14 +7,19 @@ NLP focused MSc in Computer Science with a fervent interest in leveraging cuttin
 
 ### Data Science Projects
 
-- **Clear Language Classification, 2023 - Ongoing**
+- **Mexican Presidential Candidates Twitter Sentiment Analysis, 2024**
+  -*Social Inquiry: Data Mining and NLP Application*
+    - Twitter Scrapping with twscrape
+    - Data Wrangling and Cleansing
+    - Sentiment Analysis via multi-model consensus.
+- **Clear Language Generation, 2023 - 2024**
   - *Thesis:* 
-    - Developed a Multi-head LLM tailored for Plain Language Tasks (PLTs)
+    - LLM for Plain Language Tasks (PLTs)
     - QLoRA utilized for fine-tuning.
-    - Conducted RAG Dataset Creation from PL Documentation.
-    - Employed Text Classification and Generation techniques.
-    - Evaluated SOTA LLMs for language simplification (API GPT-4 vs Llama2 vs T5).
-- **Cloud Home Theater PC, 2023 - Ongoing**
+    - Data Analysis and Agumentation with NLP techniques.
+    - Prompt Engineering for Instruction Tuning of Causal LMs
+    - Evaluation of SOTA LLMs for Language Simplification (Llama2 vs Gemma vs T5).
+- **Cloud Home Theater PC, 2023 - 2024**
   - *Business Enterprise:* Spearheaded the development of an Amazon EC2 mounted application facilitating video file sharing, with an emphasis on application containerization for streamlined server execution.
 - **Sarcasm vs Short Jokes Analysis, 2022**
   - *Data Analysis from NL:* Utilized NLTK and Spacy for Natural Language Processing (NLP) in the Statistical Analysis of Text, aimed at generating valuable insights.
