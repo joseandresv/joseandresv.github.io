@@ -8,12 +8,12 @@ NLP focused MSc in Computer Science with a fervent interest in leveraging cuttin
 ### Data Science Projects
 
 - **Mexican Presidential Candidates Twitter Sentiment Analysis, 2024**
-  -*Social Inquiry: Data Mining and NLP Application*
+  - *Social Inquiry: Data Mining and NLP Application:*
     - Twitter Scrapping with twscrape
     - Data Wrangling and Cleansing
     - Sentiment Analysis via multi-model consensus.
 - **Clear Language Generation, 2023 - 2024**
-  - *Thesis:* 
+  - *Thesis:*
     - LLM for Plain Language Tasks (PLTs)
     - QLoRA utilized for fine-tuning.
     - Data Analysis and Agumentation with NLP techniques.
@@ -25,6 +25,3 @@ NLP focused MSc in Computer Science with a fervent interest in leveraging cuttin
   - *Data Analysis from NL:* Utilized NLTK and Spacy for Natural Language Processing (NLP) in the Statistical Analysis of Text, aimed at generating valuable insights.
 - **Bird Population Clustering, 2022**
   - *Geospatial ML:* Implemented K-nearest neighbors (KNN) and Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithms for spatial data clustering of Mexican Birds.
-
-
-
